@@ -1,0 +1,33 @@
+1.0 LANG
+
+1 - FUNCTIONS:
+a(to call function type:
+fun nameoffunc(args) {
+	procedure
+}
+b(to return type:
+return
+
+2 - CLASES:
+a(to make a class type:
+class name_of_class {
+
+}
+b(to make a funxtion in class type:
+Nameoffunc(args) {
+procedure
+}
+c(to call function from class:
+nameofclasss().funcfromclass()
+d(to inhert from class type:
+class difclass : firstclass
+e(to call inherited class type:
+super.funcofinheritedclass()
+
+3 - VARIABLES:
+a(to create a variable:
+var nameofavr = expression or constant value;
+
+4 - BUILT-IN FUNCS:
+clock();
+etc...
